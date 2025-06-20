@@ -1,5 +1,5 @@
 {
-  "name": "react-native-liquid-glass-effect",
+  "name": "react-native-liquid-glass-ui",
   "version": "1.0.0",
   "description": "A React Native component library for liquid glass effects",
   "main": "dist/index.js",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sun-Woo-Kim/react-native-liquid-glass-effect.git"
+    "url": "git+https://github.com/Sun-Woo-Kim/react-native-liquid-glass-ui.git"
   },
   "keywords": [
     "react-native",
@@ -32,9 +32,9 @@
   "author": "sunwoo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Sun-Woo-Kim/react-native-liquid-glass-effect/issues"
+    "url": "https://github.com/Sun-Woo-Kim/react-native-liquid-glass-ui/issues"
   },
-  "homepage": "https://github.com/Sun-Woo-Kim/react-native-liquid-glass-effect#readme",
+  "homepage": "https://github.com/Sun-Woo-Kim/react-native-liquid-glass-ui#readme",
   "peerDependencies": {
     "react": "*",
     "react-native": "*"
