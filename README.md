@@ -1,29 +1,29 @@
-# react-native-liquid-glass
+# react-native-liquid-glass-effect
 
 A React Native component library for creating beautiful liquid glass effects with glassmorphism and blur.
 
 ## Installation
 
 ```sh
-npm install react-native-liquid-glass
+npm install react-native-liquid-glass-effect
 ```
 
 or
 
 ```sh
-yarn add react-native-liquid-glass
+yarn add react-native-liquid-glass-effect
 ```
 
 ## Usage
 
 ```jsx
-import { LiquidGlass } from 'react-native-liquid-glass';
+import { LiquidGlass } from "react-native-liquid-glass-effect";
 
 // ...
 
 <LiquidGlass>
   <Text>Your content here</Text>
-</LiquidGlass>
+</LiquidGlass>;
 ```
 
 ## Features
@@ -44,4 +44,4 @@ MIT
 
 ---
 
-Made with ❤️ 
+Made with ❤️
